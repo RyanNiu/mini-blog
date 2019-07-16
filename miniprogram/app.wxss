@@ -1,5 +1,7 @@
 @import "icon.wxss";
 @import "colorui.wxss";
+@import "editor.wxss";
+@import "editorIcon.wxss";
 /**app.wxss**/
 .container {
   display: flex;
@@ -23,7 +25,6 @@
   text-align: center;
   color: #999;
   margin-top: 100rpx;
-  margin-bottom: 30rpx;
+  margin-bottom: 10rpx;
   background-color: #fff;
-  padding-bottom: 30rpx
 }
