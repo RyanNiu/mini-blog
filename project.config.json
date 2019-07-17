@@ -19,12 +19,13 @@
 			"outputPath": ""
 		}
 	},
-	"appid": "wx5642e868dfc28bb0",
+	"appid": "wxb5c3bb29868a5f79",
 	"projectname": "mini-blog",
 	"libVersion": "2.7.0",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
 	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+	"compileType": "miniprogram",
 	"condition": {
 		"search": {
 			"current": -1,
